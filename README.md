@@ -1,5 +1,7 @@
 # chess-engine
 
+(Nov 2017 - Jun 2019)
+
 --chess-engine is currently under construction--
 
 Chess-engine is an interactive chess interface where the user can play chess against the computer.
